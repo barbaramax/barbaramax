@@ -31,7 +31,7 @@ Estudante do segundo período de Sistemas de Informação.
     title="JS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="[https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)"/> 
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
 <br>
 <br>
 ### 📊 Estatísticas
