@@ -1,5 +1,5 @@
 # 👩🏻‍💻 Barbara Max
-Estudante do primeiro período de Sistemas de Informação. 
+Estudante do segundo período de Sistemas de Informação. 
 ### 🤖 Linguagens e Tecnologias
 
 <img 
