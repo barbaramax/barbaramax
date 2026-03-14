@@ -71,7 +71,7 @@ I am a information systems student. I’m interested in technology applied to so
 
 <br>
 <br>
-### 📊 Redes
+### 📊 Social
 <p>
     <a target="_blank" href="https://www.linkedin.com/in/barbaramaxx/" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin" alt="linkedin" />
