@@ -15,8 +15,6 @@ I am a information systems student. I’m interested in technology applied to so
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white )
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white )
 
-<br>
-
 ### 📊 Social
 <p>
     <a target="_blank" href="https://www.linkedin.com/in/barbaramaxx/" style="display: inline-block;">
@@ -34,4 +32,3 @@ I am a information systems student. I’m interested in technology applied to so
 
 </p>
 
-<br/>
