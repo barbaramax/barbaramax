@@ -3,15 +3,15 @@ I am a information systems student. I’m interested in technology applied to so
 ### 🤖 Languages and Tools
 
 
-[![C](https://img.shields.io/badge/C-black?logo=c&logoColor=white)](#)    
+![C](https://img.shields.io/badge/C-black?style=for-the-badge&logo=c&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white )
 ![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white )
 ![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white )
-[![Unity](https://img.shields.io/badge/Unity-black.svg?logo=unity&logoColor=white)](#)
-[![Java](https://img.shields.io/badge/Java-black.svg?logo=openjdk&logoColor=white)](#)
-[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?logo=springboot&logoColor=fff)](#)
+![Java](https://img.shields.io/badge/java-black.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-black.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white )
 ![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white )
+[![GitHub](https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white)](https://github.com/SEUUSERNAME)
 ![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white )
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white )
 
