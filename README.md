@@ -2,72 +2,18 @@
 I am a information systems student. I’m interested in technology applied to software development and have been building practical experience through academic projects and by working in a game development lab. I enjoy solving problems and tackling challenges, always looking for ways to innovate.
 ### 🤖 Languages and Tools
 
-<img 
-    align="left" 
-    alt="C" 
-    title="C"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg"/> 
-<img 
-    align="left" 
-    alt="JS" 
-    title="JS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> 
-<img 
-    align="left" 
-    alt="PY" 
-    title="PY"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-<img 
-    align="left" 
-    alt="CSHARP" 
-    title="CSHARP"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg"
-/>
-<img 
-    align="left" 
-    alt="JAVA" 
-    title="JAVA"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
-<img 
-    align="left" 
-    alt="GIT" 
-    title="GIT"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-<img 
-    align="left" 
-    alt="GITHUB" 
-    title="GITHUB"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
-<img 
-    align="left" 
-    alt="HTML"
-    title="HTML" 
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-/>
-<img 
-    align="left" 
-    alt="CSS" 
-    title="CSS"
-    width="30px" 
-    style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-/>
+
+[![C](https://img.shields.io/badge/C-black?logo=c&logoColor=white)](#)    
+![JavaScript](https://img.shields.io/badge/JavaScript-black?style=for-the-badge&logo=javascript&logoColor=white )
+![Python](https://img.shields.io/badge/Python-black?style=for-the-badge&logo=python&logoColor=white )
+![C#](https://img.shields.io/badge/C%23-black?style=for-the-badge&logo=csharp&logoColor=white )
+[![Unity](https://img.shields.io/badge/Unity-black.svg?logo=unity&logoColor=white)](#)
+[![Java](https://img.shields.io/badge/Java-black.svg?logo=openjdk&logoColor=white)](#)
+[![Spring Boot](https://img.shields.io/badge/Spring%20Boot-black?logo=springboot&logoColor=fff)](#)
+![MySQL](https://img.shields.io/badge/MySQL-black?style=for-the-badge&logo=mysql&logoColor=white )
+![Git](https://img.shields.io/badge/Git-black?style=for-the-badge&logo=git&logoColor=white )
+![HTML5](https://img.shields.io/badge/HTML5-black?style=for-the-badge&logo=html5&logoColor=white )
+![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white )
 
 <br>
 <br>
@@ -77,6 +23,16 @@ I am a information systems student. I’m interested in technology applied to so
     <a target="_blank" href="https://www.linkedin.com/in/barbaramaxx/" style="display: inline-block;">
         <img src="https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin" alt="linkedin" />
     </a>
+</p>
+
+
+### 🔎 Statistics
+<p align="center">
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=barbaramax&show_icons=true&theme=transparent&title_color=ffffff&text_color=ffffff&icon_color=ffffff&border_color=ffffff"/>
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=barbaramax&layout=compact&theme=transparent&title_color=ffffff&text_color=ffffff&border_color=ffffff"/>
+
 </p>
 
 <br/>
