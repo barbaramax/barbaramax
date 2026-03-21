@@ -16,7 +16,6 @@ I am a information systems student. I’m interested in technology applied to so
 ![CSS3](https://img.shields.io/badge/CSS3-black?style=for-the-badge&logo=css3&logoColor=white )
 
 <br>
-<br>
 
 ### 📊 Social
 <p>
@@ -35,5 +34,4 @@ I am a information systems student. I’m interested in technology applied to so
 
 </p>
 
-<br/>
 <br/>
