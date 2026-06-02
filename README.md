@@ -26,9 +26,9 @@ I am a information systems student. I’m interested in technology applied to so
 ### 🔎 Statistics
 <p align="center">
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=barbaramax&show_icons=true&theme=transparent&include_all_commits=true&locale=pt-br"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=barbaramax&show_icons=true&theme=dracula&include_all_commits=true&locale=pt-br"/>
 
-<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barbaramax&layout=compact&custom_title=Tecnologias&langs_count=9&theme=transparent"/>
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=barbaramax&layout=compact&custom_title=Tecnologias&langs_count=9&theme=dracula"/>
 
 </p>
 
